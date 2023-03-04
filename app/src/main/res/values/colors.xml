@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lightThemeColorPrimary">#D85342</color>
+    <color name="lightThemeColorOnPrimary">#FFFFFF</color>
+    <color name="lightThemeColorPrimaryVariant">#FF9900</color>
+    <color name="lightThemeColorSecondary">#494949</color>
+    <color name="lightThemeColorSecondaryVariant">#323232</color>
+    <color name="lightThemeColorOnSecondary">#FFFFFF</color>
+    <color name="gray">#D6D6D6</color>
+</resources>
